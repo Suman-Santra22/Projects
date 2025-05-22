@@ -1,0 +1,69 @@
+.contactme
+{
+    height: 12px;
+    width: 120px;
+    border: 2px solid;
+    padding-top: 0px;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 11px;
+    font-weight:;
+    font-family: sans-serif;
+    background-color: lightgray;
+    color: grey;
+    border-color: lightgray;
+    letter-spacing: 2px;
+}
+
+.a 
+{
+    
+    padding-left: 30px;
+    height: 340px;
+    width: 500px;
+    border: 1px solid;
+    border-color: white;
+    box-shadow: 0px 0px 20px 3px;
+    margin: 240px 470px;
+}
+
+.personal
+{
+    font-family: sans-serif;
+    font-size: 35px;
+    font-weight: 100;
+}
+
+.smalltxt
+{
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+.logos
+{
+    align-items: center;
+    display: flex;
+    gap: 20px;
+}
+
+.inst
+{
+    padding-top: 12px;
+    width: 25px;
+    height: 25px;
+}
+
+.tweet
+{
+    padding-top: 12px;
+    width: 25px;
+    height: 25px;
+}
+
+.yt
+{
+    padding-top: 12px;
+    width: 25px;
+    height: 25px;
+}
